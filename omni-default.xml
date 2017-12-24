@@ -18,8 +18,8 @@
   <project path="external/exfat" name="android_external_exfat" remote="omnirom" revision="android-8.0" />
   <project path="external/fuse" name="android_external_fuse" remote="omnirom" revision="android-8.0" />
 
-  <project path="device/moto/shamu" name="android_device_moto_shamu" revision="android-7.1" />
-  <project path="device/moto/shamu-kernel" name="android_kernel_moto_shamu" revision="android-7.1" clone-depth="1" />
+  <project path="device/moto/shamu" name="android_device_moto_shamu" remote="omnirom" revision="android-7.1" />
+  <project path="device/moto/shamu-kernel" name="android_kernel_moto_shamu" remote="omnirom" revision="android-7.1" clone-depth="1" />
 
   <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="omnirom" revision="android-8.0" />
   <project path="packages/apps/Matlog" name="android_packages_apps_Matlog" remote="omnirom" revision="android-8.0" />
